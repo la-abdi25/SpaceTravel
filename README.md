@@ -11,51 +11,51 @@
   <li>Provides intuitive navigation to all major app areas with consistent layout and accessible design.</li>
 </ul>
 
-<h3>SpaceCrafts Page
+<h3>SpaceCrafts Page</h3>
 <ul>
   <li>Fetches and displays all registered spacecraft using react statemanagement hooks such as Context API and UseReducer and UseState.</li>
   <li>Manages creating a spacecraft, and decomissioning existing ones.</li>
 </ul>
-</h3>
 
-<h3>SpaceCraft Details Page
+
+<h3>SpaceCraft Details Page</h3>
 <ul>
   <li>Shows a comprehensive overview of a selected spacecraft.</li>
   <li>Includes details such as: Name, capacity, description, and spacecraft image.</li>
 </ul>
-</h3>
 
-<h3>Construction Page
+
+<h3>Construction Page</h3>
 <ul>
   <li>Allows users to create brand-new spacecraft through a dynamic, validated form.</li>
   <li>Implements strong form handling logic such as required fields: name, capacity, and description.</li>
   <li>Prevents submission with invalid or missing data</li>
   <li>Includes a "Back" navigation option to return to the spacecrafts page without refreshing.</li>
 </ul>
-</h3>
 
-<h3>Planets Page
+
+<h3>Planets Page</h3>
 <ul>
   <li>Displays a full directory of known planets in the Space Travel universe.</li>
   <li>Each planet entry shows: Planet name and current population and list of currently stationed spacecrafts.</li>
   <li>Interactive controls allow users to: Select a spacecraft, Choose a new destination planet (must be different from its current location), Confirm dispatch to simulate a mission launch</li>
 </ul>
-</h3>
 
-<h3>Loading Component
+
+<h3>Loading Component</h3>
 <ul>
   <li>A reusable loading spinner component is shown during: API fetches, spacecraft construction, planet updates or dispatches, spacecraft details view.</li>
   <li>Helps maintain feedback and responsiveness during asynchronous operations.</li>
 </ul>
-</h3>
 
-<h3>Router and Error Handling
+
+<h3>Router and Error Handling</h3>
 <ul>
   <li>Built using React Router v6+ for modern route management.</li>
   <li>Handles dynamic routes such as /spacecrafts/spacecraft/:id.</li>
   <li>Any unmatched route (404) redirects back to the homepage, preserving UX consistency.</li>
 </ul>
-</h3>
+
 
 
 
