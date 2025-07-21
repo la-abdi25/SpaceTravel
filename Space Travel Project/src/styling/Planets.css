@@ -1,0 +1,50 @@
+/* //Styling for Planets Page */
+.Planets {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Planets-Info {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid white;
+  padding: 10px;
+  gap: 1rem;
+}
+.Planets-Img {
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+}
+.Planets-Imgs-Data {
+  border: 3px dotted white;
+  width: fit-content;
+  padding: 10px;
+}
+.Planets-Imgs-Data:hover {
+  border: 3px dotted green;
+}
+.Planets-SmallImg {
+  width: 100px;
+  height: 100px;
+  border: 2px dotted white;
+  padding: 10px;
+}
+.Planets-SmallImg:hover {
+  border: 3px dotted green;
+}
+.Planets-Data {
+  display: flex;
+  gap: 1rem;
+}
+.Planets-SpaceCrafts {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.Planets-SpaceCraft-Img-Info {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+}

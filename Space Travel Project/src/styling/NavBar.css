@@ -1,0 +1,20 @@
+/* //Styling for NavBar Component */
+.NavBar {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 10rem;
+  padding: 30px;
+}
+.NavBar a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+.NavBar a:focus {
+  border: 1px solid white;
+}
+
+.NavBar a:hover {
+  color: green;
+}

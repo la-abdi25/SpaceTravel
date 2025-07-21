@@ -1,0 +1,10 @@
+/* //Styling for SpaceCraftFormBackButton Component */
+.SpaceCraftFormBackButton {
+  outline: none;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  width: fit-content;
+  text-decoration: none;
+}

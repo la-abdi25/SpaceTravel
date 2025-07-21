@@ -1,0 +1,28 @@
+/* //Styling for SpaceCrafts Page */
+.SpaceCrafts {
+  display: flex;
+  padding-top: 30px;
+  gap: 2rem;
+  flex-direction: column;
+}
+.SpaceCrafts > div {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.SpaceCrafts-Build-Button {
+  text-decoration: none;
+  color: white;
+  border: 2px solid white;
+  padding: 10px;
+  cursor: pointer;
+  width: fit-content;
+}
+.SpaceCrafts-Build-Button:hover {
+  border: 2px solid green;
+}
+.SpaceCrafts-Items {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
