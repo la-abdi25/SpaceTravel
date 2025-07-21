@@ -21,7 +21,7 @@
 <h3>SpaceCraft Details Page</h3>
 <ul>
   <li>Shows a comprehensive overview of a selected spacecraft.</li>
-  <li>Includes details such as: Name, capacity, description, and spacecraft image.</li>
+  <li>Includes details such as: name, capacity, description, and a spacecraft image.</li>
 </ul>
 
 
@@ -29,7 +29,7 @@
 <ul>
   <li>Allows users to create brand-new spacecraft through a dynamic, validated form.</li>
   <li>Implements strong form handling logic such as required fields: name, capacity, and description.</li>
-  <li>Prevents submission with invalid or missing data</li>
+  <li>Prevents submission with invalid or missing data.</li>
   <li>Includes a "Back" navigation option to return to the spacecrafts page without refreshing.</li>
 </ul>
 
