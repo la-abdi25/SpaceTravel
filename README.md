@@ -83,12 +83,13 @@
 <ul>
   <li>HomePage: shows a welcoming home page that outlines the application's functionality.</li>
   <li>
-  <ul>Spacecrafts page: Displays all spacecraft and their details. 
+    <li>Spacecrafts page: Displays all spacecraft and their details.</li>
+  <ul> 
     <li>Click on image to learn more about the spacecraft.</li>
     <li>Click on Build Spacecraft to head to a form to fill out, fields name, capacity, and description are required, and an image url, hit Build to create spacecraft.</li>
     <li>Click the Back button to show newly created spacecraft.</li>
     <li>Click Destroy to delete spacecraft from spacecrafts page and planets page.</li>
-  <ul>
+  </ul>
   </li>
   <li>Planets Page: Lists all planets and stationed spacecraft. Click on spacecraft and destination planet to move spacecraft to different planet. </li>
 </ul>
