@@ -86,9 +86,9 @@
   <li>Spacecrafts page: Displays all spacecraft and their details.</li>
   <ul> 
     <li>Click on image to learn more about the spacecraft.</li>
-    <li>Click on Build a Spacecraft to head to a form to fill out, fields name, capacity, and description are required, and an image url, hit Build to create spacecraft.</li>
+    <li>Click on Build a Spacecraft to fill out a form with fields name, capacity, and description which are required, and an image url, click Build to create a spacecraft.</li>
     <li>Click the Back button to show newly created spacecraft.</li>
-    <li>Click Destroy to delete spacecraft from spacecrafts page and planets page.</li>
+    <li>Click Destroy to delete spacecraft from both spacecrafts page and planets page.</li>
   </ul>
   </li>
   <li>Planets Page: Lists all planets and stationed spacecraft. Click on spacecraft and destination planet to move spacecraft to different planet. </li>
