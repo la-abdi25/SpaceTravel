@@ -37,7 +37,7 @@
 <h3>Planets Page</h3>
 <ul>
   <li>Displays a full directory of known planets in the Space Travel universe.</li>
-  <li>Each planet entry shows: Planet name and current population and list of currently stationed spacecrafts.</li>
+  <li>Each planet entry shows: Planet name and current population and a list of currently stationed spacecrafts.</li>
   <li>Interactive controls allow users to: Select a spacecraft, Choose a new destination planet (must be different from its current location), Confirm dispatch to simulate a mission launch</li>
 </ul>
 
