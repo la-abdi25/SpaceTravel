@@ -69,6 +69,7 @@
     <li>React Router</li>
     <li>React Hooks: useContext, useReducer, useState, useLoader, useParams</li>
     <li>Local Storage API</li>
+    <li>Vite</li>
 </ul>
   
 <h2>How To Get Started</h2>
