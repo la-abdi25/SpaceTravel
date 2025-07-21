@@ -13,7 +13,7 @@
 
 <h3>SpaceCrafts Page</h3>
 <ul>
-  <li>Fetches and displays all registered spacecraft using react state management hooks such as Context API and UseReducer and UseState.</li>
+  <li>Fetches and displays all registered spacecraft using react state management hooks such as Context API, UseReducer, and UseState.</li>
   <li>Manages creating a spacecraft, and decomissioning existing ones.</li>
 </ul>
 
