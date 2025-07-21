@@ -1,7 +1,7 @@
 # SpaceTravel
 
 <h2>Description</h2>
-<h3>A Space Travel app designed to simulate interplanetary fleet management. Built with modern React technologies, this application empowers users to explore spacecraft, build new ones, manage planetary logistics, and simulate dispatching missions — all within a sleek, interactive interface. Designed with reusability, stateful logic, and smooth routing, it integrates a mock Space Travel API to replicate real-world data flow and operations.</h3>
+<h4>A Space Travel app designed to simulate interplanetary fleet management. Built with modern React technologies, this application empowers users to explore spacecraft, build new ones, manage planetary logistics, and simulate dispatching missions — all within a sleek, interactive interface. Designed with reusability, stateful logic, and smooth routing, it integrates a mock Space Travel API to replicate real-world data flow and operations.</h4>
 
 <h2>Features</h2>
 <h3>Home Page
@@ -82,8 +82,7 @@
 <h2>How to use the App</h2>
 <ul>
   <li>HomePage: shows a welcoming home page that outlines the application's functionality.</li>
-  <li>
-    <li>Spacecrafts page: Displays all spacecraft and their details.</li>
+  <li>Spacecrafts page: Displays all spacecraft and their details.</li>
   <ul> 
     <li>Click on image to learn more about the spacecraft.</li>
     <li>Click on Build Spacecraft to head to a form to fill out, fields name, capacity, and description are required, and an image url, hit Build to create spacecraft.</li>
