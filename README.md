@@ -67,7 +67,7 @@
     <li>JSX</li>
     <li>Props</li>
     <li>React Router</li>
-    <li>React Hooks: useContext, useReducer, useState, useLoader, useParams</li>
+    <li>React Hooks: useContext, useReducer, useState, useLoaderData, useParams</li>
     <li>Local Storage API</li>
     <li>Vite</li>
 </ul>
